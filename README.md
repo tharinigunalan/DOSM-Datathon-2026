@@ -2,20 +2,20 @@
 # 🌏 TourAI: Beyond The Famous
 ### DOSM Datathon 2026 | Team Statistically Unbothered
 
-## 📌 Project Overview
+##  Project Overview
 
 **TourAI: Beyond The Famous** is a tourism intelligence dashboard developed for DOSM Datathon 2026, focusing on uncovering Malaysia's hidden tourism potential through data analytics, machine learning, and interactive visualisation.
 
 The project analyses historical tourism patterns, forecasts future tourist visits, and identifies emerging destinations that could benefit from sustainable tourism development.
 
-## 🎯 Project Objectives
+##  Project Objectives
 
 - Analyse tourism trends and performance across Malaysian states.
 - Forecast tourism demand using machine learning techniques.
 - Identify lesser-known destinations with promising tourism growth.
 - Support data-driven decisions through interactive Power BI visualisations.
 
-## 📊 Key Insights & Findings
+##  Key Insights & Findings
 
 Based on our dashboard analysis:
 
@@ -35,7 +35,7 @@ Based on our dashboard analysis:
 - Other identified states include **Melaka, Negeri Sembilan, Terengganu, and Perlis**.
 - These findings highlight opportunities to encourage tourism beyond traditionally popular destinations.
 
-## 📈 Dashboard Features
+##  Dashboard Features
 
 Our interactive Power BI dashboard consists of four pages:
 
@@ -44,27 +44,27 @@ Our interactive Power BI dashboard consists of four pages:
 3. **AI Forecast** – Predicted tourism demand and growth classifications for 2025–2026.
 4. **Hidden Gems Explorer** – Identification and ranking of emerging tourism destinations.
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 - **Power BI** – Interactive dashboards and data visualisation
 - **XGBoost** – Machine learning and tourism forecasting
 - **SHAP** – Model explainability
 - **Data Analytics** – Data cleaning, exploratory analysis, and trend identification
 
-## 📂 Repository Contents
+##  Repository Contents
 
 - `Dashboard.pbix.pbix` – Interactive Power BI dashboard
 - `Dashboard.pdf.pdf` – Dashboard preview
 - `Data1.csv` – Supporting dataset
 - `Data2.csv` – Supporting dataset
 
-## 🚀 How to Explore
+##  How to Explore
 
 1. Download the `.pbix` file from this repository.
 2. Open it using Microsoft Power BI Desktop.
 3. Navigate through the four dashboard pages to explore tourism insights, forecasts, and emerging destinations.
 
-## 💡 Conclusion
+##  Conclusion
 
 Our findings demonstrate how data analytics and machine learning can go beyond conventional tourism statistics to uncover emerging opportunities.
 
